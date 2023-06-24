@@ -1,2 +1,6 @@
 number1=100
 print("the type of number",(type))
+integer_100
+integer_50
+print("integer_100+integer_50)
+print("integer_100-integer_50)
